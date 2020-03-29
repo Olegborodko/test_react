@@ -1,0 +1,27 @@
+.page-not-found{
+  text-align: center;
+}
+
+.login-block{
+  max-width: 300px;
+  margin:0 auto;
+  padding: 20px;
+}
+
+.message-error{
+  color:red;
+  text-align: center;
+  padding: 20px;
+}
+
+.products-block{
+  margin:20px auto;
+  overflow: scroll;
+  max-width: 800px;
+  min-width: 200px;
+  max-height: 500px;
+}
+
+.product-img{
+  width: 100px;
+}
